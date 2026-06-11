@@ -26,6 +26,7 @@ struct wornApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .tint(.wornAccent)   // 👈 add this line
         }
         .modelContainer(sharedModelContainer)
     }

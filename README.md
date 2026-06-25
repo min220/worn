@@ -3,7 +3,7 @@ Worn readme · MD
  
 An AI-powered digital closet for iOS.
 
-[case study + demo →](https://drive.google.com/file/d/1qd3XEfl8cQ6W61dshNFXYCEuIXd-kVKF/view?usp=drive_link)
+[case study + demo →](https://drive.google.com/drive/folders/16Qr_dmPiDHTFROZ9yhs6WPilZeKETE2y?usp=sharing)
  
 ## the problem
  
